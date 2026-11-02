@@ -1,0 +1,7 @@
+[
+  {"name": "Web Server",         "vcpu": 2, "ram_gb": 4,  "storage_gb": 50,   "count": 3},
+  {"name": "Application Server", "vcpu": 4, "ram_gb": 8,  "storage_gb": 100,  "count": 2},
+  {"name": "Database Server",    "vcpu": 8, "ram_gb": 32, "storage_gb": 500,  "count": 1},
+  {"name": "File Server",        "vcpu": 2, "ram_gb": 4,  "storage_gb": 1000, "count": 1},
+  {"name": "Dev/Test",           "vcpu": 2, "ram_gb": 8,  "storage_gb": 100,  "count": 4}
+]
